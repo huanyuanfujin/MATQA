@@ -1,0 +1,7 @@
+ min_ans:1
+max_ans:233 94
+middle_more_than_1_ans:3
+more_than_1_ans:1513
+min_question:1
+max_question:37
+words:3961
