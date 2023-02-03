@@ -8,6 +8,17 @@ Subsequent source code will be uploaded one after another after combing.
 
 
 
+运行：
+  测试：
+	Detect/KGDOld/new_test.py
+  训练：
+    Detect/proposed/ModelProposed_1.py
+
+     1、取消注释
+         # if __name__ == "__main__":
+         #     test_model = ProposedModel()
+         #     test_model.train()
+	  2、Config.batchsize由1设置成32
 
 
 
