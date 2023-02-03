@@ -36,3 +36,11 @@ We thank zhen jia et al. for their advice and inspiration on this work in the ea
 or 
 
 https://exaqt.mpi-inf.mpg.de/
+
+
+
+We are equally grateful to Michihiro et al. for inspiring us with their proposed GNN model. Also, citations can be made using the following format
+
+Yasunaga, M., Ren, H., Bosselut, A., Liang, P., Leskovec, J., 2021. QA-GNN: Reasoning with Language Models and Knowledge Graphs for Question Answering. https://doi.org/10.48550/arXiv.2104.06378
+
+
